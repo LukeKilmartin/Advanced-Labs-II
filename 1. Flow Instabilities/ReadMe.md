@@ -1,3 +1,5 @@
+### Had to learn MatLab for this. Acquired particle data from video then analysed ionic liquid flow under magnetic fields.
+
 The recommended reading:  
 [Using particle tracking to measure flow instabilities in an undergraduate.pdf](https://github.com/LukeKilmartin/Advanced-Labs-II/files/11875488/Using.particle.tracking.to.measure.flow.instabilities.in.an.undergraduate.pdf)
 
